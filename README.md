@@ -5,7 +5,7 @@
 2. [How to export the roads](#how-to-export-the-roads)
 3. [How to convert GeoJSON to KML](#how-to-convert-geojson-to-kml)
 4. [Import KML into MyMaps](#import-kml-into-mymaps)
-5. Uploading photos
+5. [Uploading photos](#uploading-photos)
 6. Adding pins
 7. Coloring Standards
 8. Extra -- for time crunched projects
@@ -57,4 +57,21 @@ You can also edit the layer by clicking on `Untitled Layer`, but I would wait un
 
 <img src="src/gifs/how-to-import-into-my-maps.gif" style="width:600px">
 
-<br />
+
+### Uploading photos
+
+Now for the sole purpose of doing these steps. It's to upload photos of the roads to show debris has been picked up, and to prevent future claims, from citizens of the project you're working in, that their debris has not been picked up when it is likely they did not put debris out in a timely manner as communicated to them by our client. 
+
+**Photo uploading guidelines**: 
+* It's imperative that photos that are being uploaded be taken in a per block basis (a photo for every block, it is time consuming yes, but you can prove whether debris was present or not much more easily). 
+* When taking photos, it should show both side of the road clear of debris (or if there is debris, the size of the debris is smaller than a trash bin or some ineligble debris like tires or household garbage). 
+* If there are vehicles or trees or some other obstruction preventing your view of the road, take another photo. 
+* You should still take photos if there still debris to be picked up to show what was brought out to make the claim that this was all that was there at the time you surveyed.
+* Solocator is a great app to document when and where a photo was taken because you can timestamp photos and show GPS information, and is recommended for use.
+
+There are two ways of uploading photos, on a desktop/laptop or a mobile device,
+
+Desktop/Laptop:
+<img src="src/gifs/upload-photos.gif" width="600px" />
+
+Mobile device:
