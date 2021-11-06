@@ -36,7 +36,7 @@ Once you see that image, follow the steps in the gif, and also provided is the s
     * CMD (Mac) / Ctrl (Windows) + mouse drag is to select an area but to deselect what you've already selected
 5. Once you are satisfied, look in the `Select` box and under the `Layers`, go down to where it shows `State`, `City`, or `Alleys` (in this example), and click the `...` and select `Export to GeoJSON`
 
-**NOTE: Do not export anything with 1,000+ items as you will experience an issue with moving the lines over to mymaps -- instead lessen your selection. Once you've selected an area it the Select box will tell you how many items have been selected (even if the supplied gif does this anyways because we are showing you how to export these lines)**
+**NOTE: Do not export anything with 1,000+ items as you will experience an issue with moving the lines over to mymaps -- instead lessen your selection. Once you've selected an area the Select box will tell you how many items have been selected (even if the supplied gif does this anyways because we are showing you how to export these lines)**
 
 ### How to convert GeoJSON to KML 
 <br />
