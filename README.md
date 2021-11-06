@@ -6,7 +6,7 @@
 3. [How to convert GeoJSON to KML](#how-to-convert-geojson-to-kml)
 4. [Import KML into MyMaps](#import-kml-into-mymaps)
 5. [Uploading photos](#uploading-photos)
-6. Adding pins
+6. [Adding pins](#adding-pins)
 7. Coloring Standards
 8. Extra -- for time crunched projects
 9. Extra -- for projects that aren't under time constraints
@@ -82,3 +82,22 @@ Mobile device:
 
 <img src="src/gifs/upload-photos-mobile.gif" height="600" />
 <figcaption>With mobile uploads you may take photos from mobile devices, as well as uploads from your personal photo gallery. Solocator is definitely recommended to be used prior to uploading. So take your photo off Solocator, then upload that photo.</figcaption>
+
+<br />
+
+### Adding Pins
+
+The purpose of adding pins is to mark a debris location (similar to our incident reports, but can be more or less accurate depending on the person setting the pins, but definitely faster to add). When you survey a road and you spot 3 piles, and week later theres 5 piles, sure the drivers may grab all 5 if they were all storm related debris. Pins help in laying claim that at the time of the survey, there was only 3 piles of debris, and any other debris piles that came out are in fact new and wasn't there before. This goes back to taking a photo of the road even if there was debris, to demonstrate a before and after effect.
+
+#### Instructions:
+* To add a pin on the map, go onto the map that you've already created for your project in [mymaps](mymaps.google.com). If you open your map in Google Map, it will not give you editing privileges, it's read-only, meaning you can only view but not make changes. 
+* Once you've opened it, look for a balloon icon next to the hand icon. 
+* Click on the balloon icon, and it should be sort of grayed to show that you've selected it. 
+* Once it is selected, tap anywhere (preferably where the debris pile is), and a balloon marker will appear on the map.
+
+**NOTE: your GPS accuracy is going to be based off your device. I find that if you open Google Maps and click on the button that centers the screen onto you (the blue dot), it will better reflect your position on mymaps**
+
+You can edit these markers, changing their color, naming them, deleting them, changing the way they appear, etc. You can even add photos to them, however I recommend only adding photos to the lines on the road, as you should delete these pins over time as they get cleared, thus removing the photo.
+
+
+<img src="src/gifs/adding pins.gif" style="width:600px">
