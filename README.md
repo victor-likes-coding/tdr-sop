@@ -8,8 +8,9 @@
 5. [Uploading photos](#uploading-photos)
 6. [Adding pins](#adding-pins)
 7. Coloring Standards
-<!-- 8. Extra -- for time crunched projects
-9. Extra -- for projects that aren't under time constraints -->
+8. Sharing your map
+<!-- 9. Extra -- for time crunched projects
+10. Extra -- for projects that aren't under time constraints -->
 
 ----------------------------------------------------------------
 ### How to get the roads
@@ -99,3 +100,18 @@ You can edit these markers, changing their color, naming them, deleting them, ch
 
 
 <img src="src/gifs/adding pins.gif" style="width:600px">
+
+### Coloring Standards
+
+The coloring standard that should be followed are (but you're welcome to use your own color scheme): 
+* <span style="color:#00ff00;font-weight:bold">Green</span> roads - completed
+* <span style="color:#ff0000;font-weight:bold">Red</span> roads - Not completed
+* <span style="color:black; background-color: white; font-weight: bold">Black</span> roads - gated or unable to drive through
+* <span style="color:aqua; font-weight:bold">Blue</span> roads - Commercial roads that cannot be attributed to residential
+* <span style="color:yellow; font-weight:bold">Yellow</span> roads - requires photo to be turned green
+
+### Sharing
+
+So now that you've got this cool looking map, how do you give it to others? The answer is simple, we're now going to share our map with others. There's 2 ways to share this, one as a read-only (meaning the person being given this will not be able to edit the map), and the other is, well the editable one. It is advisable that you create a duplicate copy and send it to the contractor so they can work on their own version of the map.
+
+#### Read-only sharing
