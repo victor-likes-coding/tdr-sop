@@ -76,8 +76,6 @@ Desktop/Laptop:
 
 <img src="src/gifs/upload-photos.gif" width="600px" />
 
-<br />
-
 Mobile device:
 
 <img src="src/gifs/upload-photos-mobile.gif" height="600" />
