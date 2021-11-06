@@ -37,8 +37,6 @@ Once you see that image, follow the steps in the gif, and also provided is the s
 
 **NOTE: Do not export anything with 1,000+ items as you will experience an issue with moving the lines over to mymaps -- instead lessen your selection. Once you've selected an area it the Select box will tell you how many items have been selected (even if the supplied gif does this anyways because we are showing you how to export these lines)**
 
-<br />
-
 ### How to convert GeoJSON to KML 
 <br />
 <img src="src/gifs/convert-geojson-to-kml.gif" style="width:600px">
