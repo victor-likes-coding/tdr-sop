@@ -123,4 +123,4 @@ So now that you've got this cool looking map, how do you give it to others? The 
 
 This completes the walkthrough guide on creating your own map. I hope this helps you on your current project. 
 
-**Note: The time frame to completely colorize the map will be about 4 hours per 300-500 lines. Various factors come into play such as data connectivity, and monitor needs. So if there are 1000 lines in area, expect that to take 8 - 12 hours to complete**
+**Note: The time frame to completely colorize the map will be about 4 hours per 300-500 lines. Various factors come into play such as data connectivity, and monitor needs. So if there are 1000 lines in an area, expect that area to take 8 - 12 hours to complete**
