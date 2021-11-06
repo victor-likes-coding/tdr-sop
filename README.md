@@ -19,8 +19,6 @@ The first thing you have to do is log into your gis portal. Please reach out to 
 <img src="src/images/map.png" style="width: 250px" />
 <br />
 
-<br />
-
 ### How to export the roads
 
 Once you see that image, follow the steps in the gif, and also provided is the step by step instructions to select and export the roads:
@@ -49,7 +47,6 @@ This part is really simple. Take that `.geojson` file that you've just downloade
 
 **NOTE: There may be limit of how many times you can do this, so google other tools to convert GeoJSON to KML or use incognito mode**
 
-<br />
 
 ### Import KML into MyMaps
 
