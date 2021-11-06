@@ -4,7 +4,7 @@
 1. [How to get the roads](#how-to-get-the-roads)
 2. [How to export the roads](#how-to-export-the-roads)
 3. [How to convert GeoJSON to KML](#how-to-convert-geojson-to-kml)
-4. Import KML into MyMaps
+4. [Import KML into MyMaps](#import-kml-into-mymaps)
 5. Uploading photos
 6. Adding pins
 7. Coloring Standards
@@ -48,3 +48,19 @@ Once you see that image, follow the steps in the gif, and also provided is the s
 This part is really simple. Take that `.geojson` file that you've just downloaded and head over to [mygeodata](https://mygeodata.cloud/converter/geojson-to-kml). You should rename it to something meaningful, like `zone-#.kml` or so. 
 
 **NOTE: There may be limit of how many times you can do this, so google other tools to convert GeoJSON to KML or use incognito mode**
+
+<br />
+
+### Import KML into MyMaps
+
+<br />
+
+So at this point, you should have a `.kml` file located somewhere on your computer, mine was in the downloads folder. Take that file and open up [mymaps](mymaps.google.com), a google maps website for creating/editing your very own maps. You won't have as many maps as shown, but to get started, simply click on reddish-orange `+CREATE A NEW MAP` button. 
+
+You can edit the map name by clicking on the words that say `Untitled Map` and then simply name it anything you'd like, it is encouraged to use a meaningful name, such as `Project Name Roads` (at the time of this making, the current project is City of Gulfport, so I would use `City of Gulfport Roads`).
+
+You can also edit the layer by clicking on `Untitled Layer`, but I would wait until you've imported the `.kml` file(s). Depending on how many roads your city has, will depend on how many layers you will have, but a good general rule of thumb is 1 layer per 1000 imported lines (refer back to the note back in the [How to export the roads](#how-to-export-the-roads) section)
+
+<img src="src/gifs/how-to-import-into-my-maps.gif" style="width:600px">
+
+<br />
