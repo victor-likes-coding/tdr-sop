@@ -8,8 +8,8 @@
 5. [Uploading photos](#uploading-photos)
 6. [Adding pins](#adding-pins)
 7. Coloring Standards
-8. Extra -- for time crunched projects
-9. Extra -- for projects that aren't under time constraints
+<!-- 8. Extra -- for time crunched projects
+9. Extra -- for projects that aren't under time constraints -->
 
 ----------------------------------------------------------------
 ### How to get the roads
