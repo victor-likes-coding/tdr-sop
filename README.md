@@ -7,8 +7,8 @@
 4. [Import KML into MyMaps](#import-kml-into-mymaps)
 5. [Uploading photos](#uploading-photos)
 6. [Adding pins](#adding-pins)
-7. Coloring Standards
-8. Sharing your map
+7. [Coloring Standards](#coloring-standards)
+8. [Sharing your map](#sharing-your-map)
 <!-- 9. Extra -- for time crunched projects
 10. Extra -- for projects that aren't under time constraints -->
 
@@ -110,8 +110,15 @@ The coloring standard that should be followed are (but you're welcome to use you
 * <span style="color:aqua; font-weight:bold">Blue</span> roads - Commercial roads that cannot be attributed to residential
 * <span style="color:yellow; font-weight:bold">Yellow</span> roads - requires photo to be turned green
 
-### Sharing
+### Sharing your map
 
 So now that you've got this cool looking map, how do you give it to others? The answer is simple, we're now going to share our map with others. There's 2 ways to share this, one as a read-only (meaning the person being given this will not be able to edit the map), and the other is, well the editable one. It is advisable that you create a duplicate copy and send it to the contractor so they can work on their own version of the map.
 
 #### Read-only sharing
+<img src="src/gifs/read-only-share.gif" style="width:600px" />
+
+#### Editable sharing
+
+<img src="src/gifs/editable-sharing.gif" style="width:600px" />
+
+This completes the walkthrough guide on creating your own map. I hope this helps you on your current project.
