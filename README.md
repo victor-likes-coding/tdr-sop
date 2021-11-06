@@ -53,7 +53,6 @@ This part is really simple. Take that `.geojson` file that you've just downloade
 
 ### Import KML into MyMaps
 
-<br />
 
 So at this point, you should have a `.kml` file located somewhere on your computer, mine was in the downloads folder. Take that file and open up [mymaps](mymaps.google.com), a google maps website for creating/editing your very own maps. You won't have as many maps as shown, but to get started, simply click on reddish-orange `+CREATE A NEW MAP` button. 
 
