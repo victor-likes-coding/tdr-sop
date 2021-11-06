@@ -72,6 +72,13 @@ Now for the sole purpose of doing these steps. It's to upload photos of the road
 There are two ways of uploading photos, on a desktop/laptop or a mobile device,
 
 Desktop/Laptop:
+
+
 <img src="src/gifs/upload-photos.gif" width="600px" />
 
+<br />
+
 Mobile device:
+
+<img src="src/gifs/upload-photos-mobile.gif" height="600" />
+<figcaption>With mobile uploads you may take photos from mobile devices, as well as uploads from your personal photo gallery. Solocator is definitely recommended to be used prior to uploading. So take your photo off Solocator, then upload that photo.</figcaption>
